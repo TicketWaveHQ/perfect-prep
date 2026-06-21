@@ -1,0 +1,8 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Perfect Prep">
+  <rect width="64" height="64" rx="15" fill="#e8502b"/>
+  <g fill="#fff8ee">
+    <ellipse cx="32" cy="25" rx="17.5" ry="13.5"/>
+    <rect x="20.5" y="31" width="23" height="13" rx="3.5"/>
+  </g>
+  <path d="M22.5 36.5h19" stroke="#ead9c2" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
