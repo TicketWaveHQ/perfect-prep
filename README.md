@@ -1,3 +1,5 @@
+> Built and maintained by [UK Web Marketing](https://github.com/Ukwebmarketing), managed website infrastructure at [ukwebmarketing.com](https://ukwebmarketing.com).
+
 <p align="center">
   <img src="assets/mascot.png" width="240" alt="Perfect Prep — chef mascot">
 </p>
@@ -47,3 +49,7 @@ slot — pay on confirmation, no upfront commitment. Recurring weekly plans avai
 </p>
 
 <p align="center"><sub>Halal-first, everyone welcome · Yorkshire &amp; Teesside · since 2024</sub></p>
+
+## More from UK Web Marketing
+
+See our other work: [public repositories](https://github.com/orgs/Ukwebmarketing/repositories).
