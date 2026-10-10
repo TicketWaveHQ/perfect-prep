@@ -1,4 +1,4 @@
-> Built and maintained by [UK Web Marketing](https://github.com/Ukwebmarketing), managed website infrastructure at [ukwebmarketing.com](https://ukwebmarketing.com).
+> Built and maintained by [VerySEOly](https://veryseoly.com), which builds and runs websites for UK businesses. Read the [case study](https://veryseoly.com/case-studies/getperfectprep).
 
 <p align="center">
   <img src="assets/mascot.png" width="240" alt="Perfect Prep — chef mascot">
@@ -50,6 +50,6 @@ slot — pay on confirmation, no upfront commitment. Recurring weekly plans avai
 
 <p align="center"><sub>Halal-first, everyone welcome · Yorkshire &amp; Teesside · since 2024</sub></p>
 
-## More from UK Web Marketing
+## More from VerySEOly
 
-See our other work: [public repositories](https://github.com/orgs/Ukwebmarketing/repositories).
+Read the [Perfect Prep case study](https://veryseoly.com/case-studies/getperfectprep), or see [more of our work](https://veryseoly.com/work).
